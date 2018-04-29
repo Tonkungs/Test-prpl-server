@@ -3,6 +3,7 @@ const express = require('express');
 const rendertron = require('rendertron-middleware');
 const config = require('./build/polymer.json');
 const app = express();
+
 // const botUserAgents = [
 //     'W3C_Validator',
 //     'baiduspider',
