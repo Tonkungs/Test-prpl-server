@@ -4,4 +4,8 @@
 3. npm run start
 
 ใช้งานได้
+# ทดสอบเรนเดอร์
+1. https://technicalseo.com/seo-tools/fetch-render/
+2. https://cards-dev.twitter.com/validator
+3. https://developers.facebook.com/tools/debug/
 
